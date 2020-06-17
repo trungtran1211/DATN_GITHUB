@@ -7,6 +7,7 @@ use Cart;
 use App\Models\Product;
 use App\Models\Bill;
 use App\Models\BillDetail;
+use App\Models\Users;
 use Mail;
 use Auth;
 use Carbon\Carbon;
